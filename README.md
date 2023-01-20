@@ -18,6 +18,6 @@ I'm a mod author whose projects don't fit into a specific category. I just work 
 Statistics
 ----
 <div align="center">
-  <a href="https://github.com/leonardo-trote">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-trote&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/glimfeathers">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glimfeathers&layout=compact&langs_count=7&theme=dracula"/>
 </div>
