@@ -8,6 +8,9 @@ I'm a mod author whose projects don't fit into a specific category. I just work 
 <div align = "center">
   </a> 
   <a href = "mailto:glimfeathers@gmail.com.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href = "https://twitter.com/glimfeathers"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+  <a href = "https://www.youtube.com/@glimfeathers7645/featured"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  <a href = "https://www.twitch.tv/glimfeathers"> <img src=https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
   
   </a>
   
